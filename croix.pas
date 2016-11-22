@@ -28,7 +28,7 @@ FIN.}
 
 
 
-
+//prog pascal
 program croix;
 
 uses crt;
